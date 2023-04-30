@@ -2,3 +2,4 @@ node_modules
 package-lock.json
 .vscode
 .DS_Store
+this file was embedded into the referenced starter code at https://github.com/coding-boot-camp/urban-octo-telegram
