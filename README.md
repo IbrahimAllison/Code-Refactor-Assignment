@@ -29,3 +29,8 @@ MIT license for repository creation.
 Here is the link to the deployed Website for this project or challenge.
 
 https://ibrahimallison.github.io/Code-Refactor-Assignment/#search-engine-optimization
+
+![image](https://user-images.githubusercontent.com/116689797/236352129-fe23485b-1da1-4d31-800b-eec5be9a4d6f.png)
+
+See the attached screenshot for a full screenshot of the deployed Webpage.![ibrahimallison github io_Code-Refactor-Assignment_](https://user-images.githubusercontent.com/116689797/236353882-3688f26b-15c2-463b-baf5-52df8a0c2857.png)
+ 
