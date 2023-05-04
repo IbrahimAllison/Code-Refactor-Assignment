@@ -1,7 +1,8 @@
 Code Refactor Challenge
-Horiseon Marketing Agency Website. Improved the existing html and CSS codes for the Marketing Agency Website.
 
 Description
+
+Horiseon Marketing Agency Website. Improved the existing html and CSS starter codes for the Marketing Agency Website.
 
 Motivation for the project
 
@@ -13,19 +14,15 @@ It solves some of the problem of Web Accessibility. This Website was improved by
 
 Usage
 
-Each section of the project contains notes about a HTML and CSS.
+The project contains HTML and CSS codes.
 
 Credits/References
 
 I got the starter code from: https://github.com/coding-boot-camp/urban-octo-telegram.
 Challenge notes provided by the instructor.
 References from w3schools.com: https://www.w3schools.com/html/html5_semantic_elements.asp
+
 License
+
 MIT license for repository creation.
-
-
-
-
-# Code Refactor Starter Code
-I got the starter code from: https://github.com/coding-boot-camp/urban-octo-telegram
 
