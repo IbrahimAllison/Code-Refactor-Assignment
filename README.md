@@ -4,9 +4,11 @@ Horiseon Marketing Agency Website. Improved the existing html and CSS codes for 
 Description
 
 Motivation for the project
+
 My motivation is to be able to learn how to fix on-the-job ticket as a Full Stack Web Developer. This assignment gives me an opportunity to refactor an existing code. This is a great learning experience.
 
 What problem does it solve?
+
 It solves some of the problem of Web Accessibility. This Website was improve by making it accessible and solving real-world problem. It uses semantic html which will help a website that is using assistive technologies such as video captions, screen readers, and braille keyboards.
 
 Usage
