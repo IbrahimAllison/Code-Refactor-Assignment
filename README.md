@@ -30,5 +30,5 @@ Here is the link to the deployed Website for this project or challenge.
 
 https://ibrahimallison.github.io/Code-Refactor-Assignment/#search-engine-optimization
 
-See the attached screenshot for a full screenshot of the deployed Webpage.![ibrahimallison github io_Code-Refactor-Assignment_](https://user-images.githubusercontent.com/116689797/236353882-3688f26b-15c2-463b-baf5-52df8a0c2857.png)
+See the attached screenshot for a screenshot of the deployed Webpage.![ibrahimallison github io_Code-Refactor-Assignment_](https://user-images.githubusercontent.com/116689797/236353882-3688f26b-15c2-463b-baf5-52df8a0c2857.png)
  
